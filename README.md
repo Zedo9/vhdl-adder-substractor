@@ -1,6 +1,6 @@
 # 4-bit Adder-Substractor
 
-A 4-Bit Adder-Substractor implementation in VHDL as part of the Embedded Systems course.
+A 4-Bit Adder-Substractor implementation in VHDL as part of my Embedded Systems class activities.
 
 ## Structure
 
